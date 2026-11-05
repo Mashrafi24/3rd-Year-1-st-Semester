@@ -107,7 +107,8 @@ SCTP supports telecom signaling and WebRTC data channels. In WebRTC, SCTP runs o
 
 **YouTube link:** To be added after the video is uploaded.
 
-<![-- Replace the line above with: [Watch the presentation on YouTube](YOUR_ACTUAL_VIDEO_URL](https://youtu.be/40sYP-KTdUA)) -->
+[[<![-- Replace the line above with: [Watch the presentation on YouTube](YOUR_ACTUAL_VIDEO_URL](https://youtu.be/40sYP-KTdUA)) -->
+](https://youtu.be/40sYP-KTdUA?si=gn0L7cZsUeDiQIV6)](https://youtu.be/40sYP-KTdUA?si=gn0L7cZsUeDiQIV6)
 
 ## Drive link
 <![-- https://drive.google.com/file/d/1PmJqU4cRYWMPXtvdoNrlAghnw0Y2aRHD/view?usp=drive_link)) --->
